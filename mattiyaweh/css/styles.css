@@ -1,0 +1,88 @@
+.icon {
+    border-radius: 100%;
+    width: 1%;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+#about {
+    text-align: center;
+    margin: 5% ;
+}
+.wears {
+    margin: 2% 5% 5% 5%;
+}
+
+.Faq {
+    padding: 7% 5%;
+    text-align: center;
+    background-color: #1B1A17;
+}
+
+#faq-h2 {
+    color: aliceblue;
+}
+
+/* Features */
+
+#features {
+    text-align: center;
+    padding-left: 15%;
+}
+
+.feature-box {
+    padding: 5% 15%;
+    margin-left: 100px;
+    text-align: center;
+}
+
+/* Icons  */
+
+.fa-solid {
+    padding: 10%;
+    color: white;
+    margin-bottom: 1rem;
+    margin: 1rem auto;
+}
+
+i:hover {
+    color: #533483;
+}
+
+/* Text */
+.text {
+    color: white;
+}
+p {
+    color: aliceblue;
+}
+/* Footer */
+
+#footer {
+    background-color: #1B1A17;
+    padding: 7% 15%;
+    margin-top: 10%;
+    text-align: center;
+    color: white;
+}
+
+.w {
+    text-decoration: none;
+    color: whitesmoke;
+
+}
+
+.text-md-end {
+    position: relative;
+    text-align: center;
+    margin: 1% 25% ;
+}
+
+a {
+    text-decoration: none;
+    color: #1B1A17;
+}
+
+h1{
+    text-align: center;
+    position: relative;
+}
