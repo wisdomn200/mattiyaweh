@@ -1,2 +1,2 @@
 # mattiyaweh
-Food sharing app
+The Sharing app.
